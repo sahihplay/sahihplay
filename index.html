@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/masked-icon.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <meta name="theme-color" content="#141c2e" />
+    <meta name="description" content="Islamic Video Platform - Watch and learn from authentic Islamic content" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+    <meta name="apple-mobile-web-app-title" content="SAHIH Play" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+    <link rel="mask-icon" href="/masked-icon.svg" color="#141c2e" />
+    <title>SAHIH Play</title>
+    
+    <script type="module" crossorigin src="./assets/index-C87UiSro.js"></script>
+    <link rel="stylesheet" crossorigin href="./assets/index-BRpmC-kC.css">
+    
+   
+    <link rel="manifest" href="manifest.json">
+    
+  
+    <script>
+      if ("serviceWorker" in navigator) {
+        navigator.serviceWorker.register("/registerSW.js")
+          .then(reg => console.log("Service Worker Registered", reg))
+          .catch(err => console.error("Service Worker Registration Failed:", err));
+      }
+    </script>
+
+  </head>
+  <body>
+    <div id="root"></div>
+  </body>
+</html>
