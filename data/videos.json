@@ -1,0 +1,112 @@
+{
+  "categories": [
+    { "id": "1", "name": "Aqeedah", "icon": "" },
+    { "id": "2", "name": "Quran", "icon": "" },
+    { "id": "3", "name": "Hadees", "icon": "" },
+    { "id": "4", "name": "General", "icon": "" },
+    { "id": "5", "name": "History", "icon": "" },
+    { "id": "6", "name": "Live TV", "icon": "" }
+  ],
+  "videos": [
+    {
+      "id": "1",
+      "title": "Hilyatu Taalib al-‘Ilm (The Ornament of the Student of Knowledge)",
+      "thumbnail": "https://i3.ytimg.com/vi/pJKqcXqT2-M/maxresdefault.jpg",
+      "embedId": "videoseries?si=LSeqpGgahMxcoS6A&amp;list=PLCxZUKhToxr8NudKyg7gZVlauq_1HttXY",
+      "category": "General",
+      "views": "10K",
+      "likes": "4.5K",
+      "uploadedAt": ""
+    },
+    {
+      "id": "2",
+      "title": "The First Objective of Fasting | Shaykh Abdussalam al-Shuway'ir",
+      "thumbnail": "https://i.postimg.cc/85rq56Vh/ok-Gb5t-LQ1i-XVdxwn-Syay-Q.webp",
+      "embedId": "videoseries?si=1Apo17553M82PFbr&amp;list=PLysBFSwKwsNjv6XJqeuwgE5cH32d_amcl",
+      "category": "General",
+      "views": "12K",
+      "likes": "3.2K",
+      "uploadedAt": ""
+    },
+    {
+      "id": "3",
+      "title": "The Four Principles || القواعد الأربع ||",
+      "thumbnail": "https://i3.ytimg.com/vi/a51natv_HdE/maxresdefault.jpg",
+      "embedId": "videoseries?si=MIgZ64ZYy5_iRsON&amp;list=PLCxZUKhToxr8VMWuM0ahzZc-t38umBAHa",
+      "category": "Aqeedah",
+      "views": "9.3K",
+      "likes": "2.7K",
+      "uploadedAt": ""
+    },
+    {
+      "id": "4",
+      "title": "Seerah of Prophet Muhammed ﷺ",
+      "thumbnail": "https://i3.ytimg.com/vi/28ip1xk3QBw/maxresdefault.jpg",
+      "embedId": "videoseries?si=Pgl1X3k-CeMPQ1CV&amp;list=PL2dRQaGGWZOBTruan5Ca44q9qQzp-ne0T",
+      "category": "History",
+      "views": "450K",
+      "likes": "50K",
+      "uploadedAt": ""
+    },
+    {
+      "id": "5",
+      "title": "Kitaab at-Tawheed || كتاب التوحيد || (Aqeedahh | عقيدة)",
+      "thumbnail": "https://img.youtube.com/vi/6wT3WI_AdKQ/maxresdefault.jpg",
+      "embedId": "videoseries?si=iKFB7UZCD09oqcTH&amp;list=PLCxZUKhToxr9IgL2eLPubkjOjL7-8ZhHK",
+      "category": "Aqeedah",
+      "views": "30K",
+      "likes": "2.8K",
+      "uploadedAt": ""
+    },
+    {
+      "id": "6",
+      "title": "Quran Recitation with English Translation",
+      "thumbnail": "https://img.youtube.com/vi/-PqP0BCiTlE/maxresdefault.jpg",
+      "embedId": "videoseries?si=XEgJ75t7Kxf9Bt74&amp;list=PLWcE3bV3PyuP-WnyusYMlIPqg7qVZSOIm",
+      "category": "Quran",
+      "views": "1.8M",
+      "likes": "133K",
+      "uploadedAt": ""
+    },
+    {
+      "id": "7",
+      "title": "Introduction to Hadith || (Hadith | حديث)",
+      "thumbnail": "https://img.youtube.com/vi/XIgebCGtvq8/maxresdefault.jpg",
+      "embedId": "videoseries?si=iTVqzFyQ0C7M42Ye&amp;list=PLCxZUKhToxr8G-k2mx1o-ArN0uI4MjGRM",
+      "category": "Hadees",
+      "views": "4K",
+      "likes": "1K",
+      "uploadedAt": ""
+    },
+    {
+      "id": "8",
+      "title": "Who are the Khawarij - Faris Al Hammadi",
+      "thumbnail": "https://img.youtube.com/vi/1lVoZg19_iY/maxresdefault.jpg",
+      "embedId": "videoseries?si=fFJO2Vo3kW8PNoIH&amp;list=PLCfVpNv5meUqAU5LmePV16jzcju91XFKR",
+      "category": "General",
+      "views": "4K",
+      "likes": "2.8K",
+      "uploadedAt": ""
+    },
+    {
+      "id": "9",
+      "title": "Makkah Live",
+      "thumbnail": "https://img.youtube.com/vi/tko4c06NJeA/maxresdefault.jpg",
+      "embedId": "tko4c06NJeA?si=IOkysQBnP0YCM5qW",
+      "category": "Live TV",
+      "views": "920K",
+      "likes": "100K",
+      "uploadedAt": ""
+    },
+    {
+      "id": "10",
+      "title": "Your Daily Juz || Day 01-31 | #Ramadan2025",
+      "thumbnail": "https://img.youtube.com/vi/dBStmOCsCUA/maxresdefault.jpg",
+      "embedId": "videoseries?si=tUIj9gKMNdlGeO_D&amp;list=PLA8wR8bPvaWld_m_rsDs_pqqVTqyfbLts",
+      "category": "Quran",
+      "views": "18K",
+      "likes": "3.7K",
+      "uploadedAt": ""
+    }
+  ]
+}
